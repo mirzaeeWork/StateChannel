@@ -1,5 +1,6 @@
 # StateChannel
-1)In the root of the project in the terminal
+In the root of the project in the terminal
+1)https://github.com/mirzaeeWork/StateChannel.git
 2)cd contract- State chanel
 3)npm install
 4)cd..
